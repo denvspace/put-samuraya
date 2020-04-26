@@ -1,0 +1,26 @@
+.item {
+    color: #2b3cff;
+    margin-top: 5px;
+    display: grid;
+    grid-template-columns: 1fr 11fr;
+}
+
+.post{
+    color: #2b3cff;
+    border: 2px solid #2b3cff;
+    background-color: white;
+    padding: 10px;
+    margin-right: 5px;
+    border-radius: 0px 10px 10px 10px;
+}
+
+.item img{
+    margin-left: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.likes{
+    text-align: right;
+}

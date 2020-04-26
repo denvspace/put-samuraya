@@ -1,0 +1,11 @@
+.myPosts{
+    padding: 10px;
+}
+
+.posts{
+    padding-top: 20px;
+}
+
+textarea{
+    resize: none;
+}
