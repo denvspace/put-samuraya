@@ -7,5 +7,7 @@
 }
 
 textarea{
+    width: 99.4%;
+    height: 50px;
     resize: none;
 }

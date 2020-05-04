@@ -16,3 +16,7 @@
 .item a.activeLink {
     color: gold;
 }
+
+.settings{
+    margin-top: 20px;
+}
